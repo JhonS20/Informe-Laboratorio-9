@@ -8,7 +8,9 @@ Aprender la resolución de operaciones con numeros complejos.
 
 1.2.	Objetivos Específicos 
 
-Realizar operaciones con números complejos y comprobar los resultados con una calculadora.
+- Realizar operaciones con números complejos y comprobar los resultados con una calculadora.
+
+- Aplicar las operaciones posibles cuando se tiene numeros complejos y comparar cual es el que arroja los resultados mas rapido.
 
 2.	MARCO TEORICO 
 
@@ -37,9 +39,11 @@ https://youtu.be/Or6I9lzAcXE
 
 6.	CONCLUSIONES
 
-Se comprobó el que las operaciones mediante calculadora y por cálculos aritméticos son muy parecidos con un pequeño margen de error.
+- Se comprobó el que las operaciones mediante calculadora y por cálculos aritméticos son muy parecidos con un pequeño margen de error.
 
-Las operaciones con números complejos nos ayuda a realizar problemas relacionados con circuitos eléctricos en la implementación de fasores.
+- Las operaciones con números complejos nos ayuda a realizar problemas relacionados con circuitos eléctricos en la implementación de fasores.
+
+
 
 7. BIBLIOGRAFÍA 
 

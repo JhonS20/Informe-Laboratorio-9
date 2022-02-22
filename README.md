@@ -33,7 +33,7 @@ Realizar operaciones con números complejos y comprobar los resultados con una c
 
 5.	VIDEO
 
-
+https://youtu.be/Or6I9lzAcXE
 
 6.	CONCLUSIONES
 

@@ -12,6 +12,7 @@ Realizar operaciones con números complejos y comprobar los resultados con una c
 
 2.	MARCO TEORICO 
 
+![FASORES](https://user-images.githubusercontent.com/93899658/155156609-700576db-26d5-45e6-b002-72861322cb09.png)
 
 
 3.	EXPLICACION DEL PROCEDIMIENTO

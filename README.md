@@ -25,13 +25,15 @@ Aprender la resolución de operaciones con numeros complejos.
 
 3.2.	Procedimiento
 
-![Lab 9_Página_2](https://user-images.githubusercontent.com/93209004/155154473-63fe0645-1a80-434e-b0c8-e8c6696586a7.jpg)
-![Lab 9_Página_3](https://user-images.githubusercontent.com/93209004/155154476-1a847bc5-f152-482e-bd94-0565d56f37dd.jpg)
-![Lab 9_Página_4](https://user-images.githubusercontent.com/93209004/155154477-61a3c8c1-2ed9-4a2b-8879-15858786ba7a.jpg)
+![Ultimo lab_Página_2](https://user-images.githubusercontent.com/93209004/155731779-631b45d5-0a1a-4de1-a6d4-f2e87a47a0ce.jpg)
+![Ultimo lab_Página_3](https://user-images.githubusercontent.com/93209004/155731813-76d04cad-4caf-48f0-a726-997a89cee834.jpg)
+![Ultimo lab_Página_4](https://user-images.githubusercontent.com/93209004/155731814-65424553-5539-4853-a45b-755862826138.jpg)
 
 4.	RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
 
-
+![Ultimo lab_Página_5](https://user-images.githubusercontent.com/93209004/155731861-8e993a79-6285-4994-abc5-cb2719170c90.jpg)
+![Ultimo lab_Página_6](https://user-images.githubusercontent.com/93209004/155731867-98fc706f-74cf-4e4c-8ce6-2da1dd3d9724.jpg)
+![Ultimo lab_Página_7](https://user-images.githubusercontent.com/93209004/155731871-8ff5529a-96fd-44a4-ace1-76d820465d91.jpg)
 
 5.	VIDEO
 
@@ -42,7 +44,6 @@ https://youtu.be/Or6I9lzAcXE
 - Se comprobó el que las operaciones mediante calculadora y por cálculos aritméticos son muy parecidos con un pequeño margen de error.
 
 - Las operaciones con números complejos nos ayuda a realizar problemas relacionados con circuitos eléctricos en la implementación de fasores.
-
 
 
 7. BIBLIOGRAFÍA 
